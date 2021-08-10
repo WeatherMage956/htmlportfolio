@@ -1,0 +1,54 @@
+/* This part of the coding will apply to everything. */
+hr {
+  border-style: dotted none none; height: 0; width: 3%;
+}
+
+/* Coding related to the first div. */
+.first_fiv{
+  border-style: none;
+  padding-bottom: 50px;
+  padding-right: 10px;
+  padding-top: 10px;
+  margin-left: 25%;
+  margin-right: 25%;
+
+
+}
+
+.first_fiv_pic{
+  float:left;
+}
+
+
+/* Coding related to the second div. */
+
+.second_fiv{
+  border-style: none;
+  padding-bottom: 40px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.second_fiv_pic{
+  float:right;
+
+}
+
+
+/* Third rectangle settings*/
+.third_fiv{
+  border-style: none;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-left: 25%;
+  margin-right: 25%;
+
+}
+.third_fiv_pic{
+  float:left;
+  padding-left: 15px;
+  padding-right: 15px;
+}
